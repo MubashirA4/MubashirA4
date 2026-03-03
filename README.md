@@ -1,131 +1,138 @@
-👋 Hi, I'm Mubashir Ahmad Hamza
-Full Stack Developer passionate about building scalable, responsive, and user-centric web applications.
+<div align="center">
 
-https://img.shields.io/badge/Email-hamza.cse123@gmail.com-red?style=flat-square&logo=gmail
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin
-https://img.shields.io/badge/Phone-%252B923334475755-green?style=flat-square&logo=whatsapp
+# `< Mubashir Ahmad Hamza />`
 
-🚀 About Me
-Results-driven Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and modern front-end technologies. I excel at leading development teams, translating UI/UX designs into high-quality interfaces, and delivering efficient, maintainable solutions that align with business goals.
+### Full Stack Developer · MERN Stack · Team Lead
 
-🔭 Currently working as Development Team Lead at TechTideCo
+[![Email](https://img.shields.io/badge/Email-hamza.cse123%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.cse123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubashir-ahmad-hamza)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B923334475755-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923334475755)
 
-🌱 Constantly learning and exploring new technologies
+</div>
 
-👯 Looking to collaborate on innovative web projects
+---
 
-💬 Ask me about React.js, Node.js, MongoDB, or Team Leadership
+## 👨‍💻 About Me
 
-⚡ Fun fact: I started as an intern and grew to lead the development team within months!
+Results-driven **Full Stack Developer** with expertise in the **MERN stack** and modern front-end technologies. I excel at leading development teams, translating UI/UX designs into high-quality interfaces, and delivering efficient, maintainable solutions that align with business goals.
 
-🛠️ Technical Skills
-Frontend
-https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
-https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3
-https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black
-https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
+- 🔭 Currently working as **Development Team Lead** at [TechTideCo](https://techtideco.com)
+- 🌱 Constantly learning and exploring new technologies
+- 👯 Looking to collaborate on **innovative web projects**
+- 💬 Ask me about **React.js, Node.js, MongoDB, or Team Leadership**
+- ⚡ **Fun fact:** Started as an intern and grew to lead the development team within months!
 
-Backend & Database
-https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express
-https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
-https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black
+---
 
-Tools & Platforms
-https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code
-https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github
-https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel
+## 🛠️ Tech Stack
 
-💼 Professional Experience
-Development Team Lead | TechTideCo
-*Dec 2025 - Present*
+**Frontend**
 
-Lead and coordinate the development team to deliver scalable and high-quality web applications
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-Manage project planning, assign tasks, and ensure timely delivery while maintaining coding standards
+**Backend & Database**
 
-Collaborate with designers and backend developers to ensure seamless integration and optimize performance
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-Front-End Developer | TechTideCo
-*Oct 2025 - Dec 2025*
+**Tools & Platforms**
 
-Developed and maintained scalable web applications using React.js and TypeScript
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-Translated UI/UX designs into high-performance features
+---
 
-Optimized applications for speed, accessibility, and cross-browser compatibility
+## 💼 Professional Experience
 
-Front-End Developer Intern | TechTideCo
-*Aug 2025 - Oct 2025*
+```
+📍 TechTideCo
+├── 🏅 Development Team Lead       Dec 2025 – Present
+│      Lead dev team · Project planning · Cross-functional collaboration
+│
+├── 💻 Front-End Developer         Oct 2025 – Dec 2025
+│      React.js + TypeScript · UI/UX implementation · Performance optimization
+│
+└── 🌱 Front-End Developer Intern  Aug 2025 – Oct 2025
+       Hit the ground running from day one!
 
-Same responsibilities as above - hit the ground running!
+📍 DevelopersHub Co.
+└── 🌱 Front-End Developer Intern  Dec 2024 – Feb 2025
+       Figma → pixel-perfect components · 15% reduction in dev time · Agile sprints
 
-Front-End Developer Intern | DevelopersHub Co.
-*Dec 2024 - Feb 2025*
+📍 Rhombix Technology
+└── 🌱 Front-End Developer Intern  Sep 2024 – Nov 2024
+       HTML · CSS · React.js · Tailwind CSS · Component-based architecture
+```
 
-Translated Figma designs into pixel-perfect, reusable components, reducing development time by 15%
+---
 
-Implemented modern UI/UX principles, improving site accessibility and user engagement metrics
+## 🚀 Featured Projects
 
-Participated in Agile sprints, code reviews, and daily stand-ups
+### 🏢 TechTide Corporate Website
+> `React` `Tailwind CSS` `Firebase` `Hostinger`
 
-Front-End Developer Intern | Rhombix Technology
-*Sep 2024 - Nov 2024*
+Responsive corporate website showcasing company services and portfolio. Modern UI with performance optimization, cross-browser compatibility, and clean deployment pipeline.
 
-Built and maintained front-end features using HTML, CSS, and React.js
+---
 
-Gained hands-on experience with Tailwind CSS, Git, and component-based architecture
+### 🏥 Nexus Clinic — Healthcare Management System
+> `MongoDB` `Express.js` `React.js` `Node.js`
 
-📚 Education
-Bachelor of Science in Computer Science (BSCS)
-*Virtual University of Pakistan | Oct 2020 - Sep 2024*
+Full-stack clinic management system handling appointments and patient records. Focused on secure data handling, scalable architecture, and dynamic React interfaces backed by robust Node.js services.
 
-Coursework: Web Development, Data Structures & Algorithms, Database Systems, Software Engineering
+---
 
-FSc Pre-Engineering
-*Islamia College | Aug 2018 - Sep 2020*
+### 📝 Blog Website
+> `MongoDB` `Express.js` `React.js` `Node.js`
 
-Core subjects: Mathematics, Physics, Chemistry
+Full-stack blog platform with user authentication and full CRUD operations. Clean, responsive UI with a seamless content management system for enhanced user engagement.
 
-🏆 Featured Projects
-TechTide Corporate Website
-Tools: React, Tailwind CSS, Firebase
+---
 
-Designed and developed a responsive corporate website showcasing company services and portfolio
+## 📊 GitHub Stats
 
-Implemented modern UI with performance optimization and cross-browser compatibility
+<div align="center">
 
-Deployed using Git, GitHub, and Hostinger
+![Mubashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubashir-ahmad-hamza&show_icons=true&theme=radical&hide_border=true)
 
-Nexus Clinic - Healthcare Management System
-Tools: MERN Stack (MongoDB, Express, React, Node.js)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-ahmad-hamza&layout=compact&theme=radical&hide_border=true)
 
-Full-stack clinic management application for appointments and patient records
+</div>
 
-Built dynamic interfaces with React.js and integrated backend services
+---
 
-Focused on secure data handling and scalable architecture
+## 🎓 Education
 
-Blog Website
-Tools: MERN Stack (MongoDB, Express, React, Node.js)
+| Degree | Institution | Period |
+|--------|------------|--------|
+| 🎓 BS Computer Science | Virtual University of Pakistan | 2020 – 2024 |
+| 📐 FSc Pre-Engineering | Islamia College | 2018 – 2020 |
 
-Full-stack blog application with user authentication and CRUD operations
+---
 
-Clean, responsive UI for enhanced user engagement
+## 📫 Let's Connect!
 
-Seamless content management system
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
 
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=mubashir-ahmad-hamza&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-ahmad-hamza&layout=compact&theme=radical
+<div align="center">
 
-📫 Let's Connect!
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
+[![Email](https://img.shields.io/badge/📧_Email_Me-hamza.cse123%40gmail.com-D44638?style=for-the-badge)](mailto:hamza.cse123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-mubashir--ahmad--hamza-0A66C2?style=for-the-badge)](https://linkedin.com/in/mubashir-ahmad-hamza)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-%2B923334475755-25D366?style=for-the-badge)](https://wa.me/923334475755)
 
-📧 Email: hamza.cse123@gmail.com
+---
 
-📱 Phone: +923334475755
+*"Started as an intern. Built as a leader. Shipping as a full-stack dev."*
 
-💼 LinkedIn: mubashir-ahmad-hamza
+![Profile Views](https://komarev.com/ghpvc/?username=mubashir-ahmad-hamza&color=blueviolet&style=flat-square)
+
+</div>
